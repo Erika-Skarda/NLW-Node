@@ -1,6 +1,4 @@
-<div align="center">
-    <img width="200px" src="https://i.ytimg.com/vi/5CZmkjFHe4U/maxresdefault.jpg" alt="Next Level Week #4">
-</div>
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=redux&message=library&color=yellow&style=for-the-badge&logo=NODE"/>
@@ -11,6 +9,9 @@
     </p>
 </div>
 
+<div align="center">
+    <img width="400px" src="https://i.ytimg.com/vi/5CZmkjFHe4U/maxresdefault.jpg" alt="Next Level Week #4">
+</div>
 <div align="center">
     <h2>
     <a href="#-o-projeto">O projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
