@@ -1,4 +1,4 @@
-# NLW 4 :rocket
+# NLW 4 :rocket:
 
 Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promoter Score.
 
