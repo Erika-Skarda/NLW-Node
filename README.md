@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="public/github/nlw4.jpg" alt="Next Level Week #4">
+    <img src="https://i.ytimg.com/vi/5CZmkjFHe4U/maxresdefault.jpg" alt="Next Level Week #4">
 </div>
 
 <div align="center">
@@ -10,10 +10,6 @@
         Feito com 💜 <a href="https://www.linkedin.com/in/erika-skarda/" target="_blank">Erika Skarda</a>
     </p>
 </div>
-
- <p align="center" >
-  <img width="20%" src="https://i.imgur.com/MagoMtL.png" />
-</p>
 
 <div align="center">
     <h2>
