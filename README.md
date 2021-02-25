@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-Node.js-orange?style=for-the-badge" alt="Node.js">
     <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge" alt="Express">
     <p>    
-        Feito com 💜 by <a href="https://www.linkedin.com/in/erika-skarda/" target="_blank">Erika Skarda</a>
+        Feito com 💜 <a href="https://www.linkedin.com/in/erika-skarda/" target="_blank">Erika Skarda</a>
     </p>
 </div>
 
