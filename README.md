@@ -3,16 +3,17 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge" alt="Typescript">
-    <img src="https://img.shields.io/badge/-Node.js-orange?style=for-the-badge" alt="Node.js">
-    <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge" alt="Express">
+  <img src="https://img.shields.io/static/v1?label=redux&message=library&color=yellow&style=for-the-badge&logo=NODE"/>
+  <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=green&style=for-the-badge&logo=JEST"/>
+  <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
     <p>    
         Feito com 💜 <a href="https://www.linkedin.com/in/erika-skarda/" target="_blank">Erika Skarda</a>
     </p>
 </div>
 
-<h4 align="center">
-</h4>
+ <p align="center" >
+  <img width="20%" src="https://i.imgur.com/MagoMtL.png" />
+</p>
 
 <div align="center">
     <h2>
