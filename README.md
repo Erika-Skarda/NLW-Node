@@ -15,7 +15,7 @@ Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promo
 <div align="center">
     <h2>
     <a href="#-o-projeto">O projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#">Iniciando a 6ornada</a>
+    <a href="#">Iniciando a jornada</a>
     </h2>
 </div>
 
