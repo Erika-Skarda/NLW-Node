@@ -4,9 +4,7 @@
   <img src="https://img.shields.io/static/v1?label=redux&message=library&color=yellow&style=for-the-badge&logo=NODE"/>
   <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=green&style=for-the-badge&logo=JEST"/>
   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
-    <p>    
-        Feito com 💜 <a href="https://www.linkedin.com/in/erika-skarda/" target="_blank">Erika Skarda</a>
-    </p>
+  
 </div>
 
 <div align="center">
@@ -22,6 +20,7 @@
 # O projeto
 
 Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promoter Score.
+
 
 > O **Net Promoter Score** é uma metodologia de satisfação de clientes desenvolvida para avaliar o grau de **fidelidade dos clientes** de qualquer perfil de empresa.
 
