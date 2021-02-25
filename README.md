@@ -1,4 +1,4 @@
-# NLW 4
+# NLW 4 :rocket
 
 Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promoter Score.
 
@@ -10,12 +10,12 @@ Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promo
 </div>
 
 <div align="center">
-    <img width="400px" src="https://i.ytimg.com/vi/5CZmkjFHe4U/maxresdefault.jpg" alt="Next Level Week #4">
+    <img width="600px" src="https://i.ytimg.com/vi/5CZmkjFHe4U/maxresdefault.jpg" alt="Next Level Week #4">
 </div>
 <div align="center">
     <h2>
     <a href="#-o-projeto">O projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#">Iniciando a jornada</a>
+    <a href="#">Iniciando a 6ornada</a>
     </h2>
 </div>
 
