@@ -1,4 +1,6 @@
+# NLW 4
 
+Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promoter Score.
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=redux&message=library&color=yellow&style=for-the-badge&logo=NODE"/>
@@ -17,10 +19,6 @@
     </h2>
 </div>
 
-# O projeto
-
-Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promoter Score.
-
 
 > O **Net Promoter Score** é uma metodologia de satisfação de clientes desenvolvida para avaliar o grau de **fidelidade dos clientes** de qualquer perfil de empresa.
 
@@ -31,3 +29,7 @@ Se você estiver iniciando a jornada e não tem muita familiariadade com alguns 
 # 📝 Sobre
 
 As aulas foram ministradas pela **[Daniele Leão](https://github.com/danileao)** instrutora da [Rocketseat](https://rocketseat.com.br/)
+
+  <p>    
+        Feito com 💜 <a href="https://www.linkedin.com/in/erika-skarda/" target="_blank">Erika Skarda</a>
+  </p>
