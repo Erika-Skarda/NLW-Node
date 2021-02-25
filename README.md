@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.ytimg.com/vi/5CZmkjFHe4U/maxresdefault.jpg" alt="Next Level Week #4">
+    <img width="200px" src="https://i.ytimg.com/vi/5CZmkjFHe4U/maxresdefault.jpg" alt="Next Level Week #4">
 </div>
 
 <div align="center">
