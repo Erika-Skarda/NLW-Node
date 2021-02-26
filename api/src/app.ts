@@ -12,8 +12,16 @@ import createConnection from './database';
 // desmarcar bail se algum falhar n da continuidade e o testMatch -> caminho e pastas onde ficarão os testes
 // npm i ts-jest -D --> Preset pra trabalhar typescript com testes
 // descomentar preset e por ts-jest
-// npm i supertest --> jest n trabalha bem com teste de   integração
+// npm i supertest --> jest n trabalha bem com teste de integração
 // posttest pra a pagar o db
+// npx typeorm  migration:create -n CreateSurveysUsers
+// npm run typeorm migration:run
+
+//nodemailer usar em conjunto com SMTP -> ethreal(SMTP service) n precisa criar conta
+// npm install nodemailer
+// handlebars pra customizar email
+
+//localhost:3333/answrs/${nota}?u={id_usuario}
 createConnection();
 // vai substituir o database
 const app = express();
