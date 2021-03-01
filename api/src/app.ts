@@ -1,9 +1,10 @@
 // para o memento de teste o servidor real n seja executado
 import 'reflect-metadata';
-
-import express from 'express';
-import { router } from './routes';
+import express, { NextFunction, Request, Response } from 'express';
+import 'express-async-errors';
 import createConnection from './database';
+import { router } from './routes';
+import { AppError } from './errors/AppErrors';
 
 // npx typeorm migration:create -n CreateSurveys
 // npm run typeorm migration:run
@@ -22,11 +23,33 @@ import createConnection from './database';
 // handlebars pra customizar email
 
 //localhost:3333/answrs/${nota}?u={id_usuario}
+
+//npm i yup
+
+// remover
+  // Refatorar pois nem sempre rm funciona
+  //"posttest": "rm ./src/database/database.test.sqlite"
+
+ //  npm i express-async-errors
+ //  
 createConnection();
 // vai substituir o database
 const app = express();
 
 app.use(express.json());
 app.use(router);
+
+app.use((err: Error, request: Request, response: Response, _next: NextFunction) => {
+  if(err instanceof AppError) {
+    return response.status(err.statusCode).json({
+      message: err.message
+    })
+  }
+
+  return response.status(500).json({
+    status: "Error",
+    message: `Internal server error ${err.message}`
+  })
+})
 
 export { app }
