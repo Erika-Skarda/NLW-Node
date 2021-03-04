@@ -8,7 +8,7 @@ Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promo
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=redux&message=library&color=yellow&style=for-the-badge&logo=NODE"/>
-  <img src="https://img.shields.io/static/v1?label=jestt&message=language&color=green&style=for-the-badge&logo=JEST"/>
+  <img src="https://img.shields.io/static/v1?label=jest&message=language&color=green&style=for-the-badge&logo=JEST"/>
   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
   
 </div>
