@@ -3,15 +3,16 @@
 Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promoter Score.
 
 <div align="center">
+    <img width="600px" src="https://i.ytimg.com/vi/5CZmkjFHe4U/maxresdefault.jpg" alt="Next Level Week #4">
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?label=redux&message=library&color=yellow&style=for-the-badge&logo=NODE"/>
-  <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=green&style=for-the-badge&logo=JEST"/>
+  <img src="https://img.shields.io/static/v1?label=jestt&message=language&color=green&style=for-the-badge&logo=JEST"/>
   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
   
 </div>
 
-<div align="center">
-    <img width="600px" src="https://i.ytimg.com/vi/5CZmkjFHe4U/maxresdefault.jpg" alt="Next Level Week #4">
-</div>
 <div align="center">
     <h2>
     <a href="#-o-projeto">O projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
