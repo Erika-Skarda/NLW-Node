@@ -7,8 +7,8 @@ Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promo
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=redux&message=library&color=yellow&style=for-the-badge&logo=NODE"/>
-  <img src="https://img.shields.io/static/v1?label=jest&message=language&color=green&style=for-the-badge&logo=JEST"/>
+  <img src="https://img.shields.io/static/v1?label=redux&message=library&color=green&style=for-the-badge&logo=NODE"/>
+  <img src="https://img.shields.io/static/v1?label=jest&message=language&color=red&style=for-the-badge&logo=JEST"/>
   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
   
 </div>
@@ -22,12 +22,32 @@ Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promo
     </h2>
 </div>
 
+## 💻 Projeto
 
 > O **Net Promoter Score** é uma metodologia de satisfação de clientes desenvolvida para avaliar o grau de **fidelidade dos clientes** de qualquer perfil de empresa.
 
-# Iniciando a jornada
 
-Se você estiver iniciando a jornada e não tem muita familiariadade com alguns conceitos, esse guia definitivamente irá lhe ajudar: [Guia Next Level Week #4](https://www.notion.so/Next-Level-Week-4-Node-js-67981103adbb4f229187c802bcd0d787)
+## Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto: 
+
+```
+git clone https://github.com/Erika-Skarda/NLW4-Node
+```
+Entre no projeto e instale as dependências através do comando:
+```
+npm install
+```
+Por último, suba a aplicação: 
+```
+npm run dev
+```
+
+## Linguagens, dependencias e libs utilizadas :books:
+
+- [React](https://reactjs.org)
+- [Node](https://https://nodejs.org/en/)
+- [Jest](https://jestjs.io/)
 
 # 📝 Sobre
 
