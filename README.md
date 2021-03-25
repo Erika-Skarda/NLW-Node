@@ -13,6 +13,8 @@ Durante esta **Next Level Week** foi desenvolvida uma API Restful para Net Promo
   
 </div>
 
+> Status do Projeto: Concluído :heavy_check_mark: 
+
 <div align="center">
     <h2>
     <a href="#-o-projeto">O projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
